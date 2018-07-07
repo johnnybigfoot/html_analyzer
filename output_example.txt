@@ -1,0 +1,5 @@
+11:55:01.363 [main] INFO  main.Analyzer - 1st argument is C:\Temp\1.html
+11:55:01.363 [main] INFO  main.Analyzer - 2nd argument is C:\Temp\3.html
+11:55:01.456 [main] INFO  main.Analyzer - Target in original is: 
+11:55:01.456 [main] INFO  main.Analyzer - <a id="make-everything-ok-button" class="btn btn-success" href="#ok" title="Make-Button" rel="next" onclick="javascript:window.okDone(); return false;"> Make everything OK </a> 
+11:55:01.519 [main] INFO  main.Analyzer - XPath of needed element in diff-case is: //html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/a[1]/
