@@ -1,4 +1,3 @@
-# beacon_demo
+usage:
+java -jar test_task1.jar path_to_file1 path_to_file1
 
-To start the application - launch Runner.java
-For tests - refer to BeaconTest.java
